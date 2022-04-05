@@ -1,0 +1,55 @@
+[2022-04-04 13:02:28 UTC-04:00] > Starting test_submission.py
+[2022-04-04 13:02:28 UTC-04:00] > opening assignment_manifest.json
+[2022-04-04 13:02:28 UTC-04:00] > 	success. processing contents
+[2022-04-04 13:02:28 UTC-04:00] > 	success
+[2022-04-04 13:02:28 UTC-04:00] > Determining present files
+[2022-04-04 13:02:28 UTC-04:00] > Searching for my_string.c
+[2022-04-04 13:02:28 UTC-04:00] > 	Found
+[2022-04-04 13:02:28 UTC-04:00] > Searching for my_string.h
+[2022-04-04 13:02:28 UTC-04:00] > 	Found
+[2022-04-04 13:02:28 UTC-04:00] > Searching for program3.c
+[2022-04-04 13:02:28 UTC-04:00] > 	Found
+[2022-04-04 13:02:28 UTC-04:00] > Looking in my_string.c for required functions
+[2022-04-04 13:02:28 UTC-04:00] > Searching for function my_strcmp
+[2022-04-04 13:02:28 UTC-04:00] > 	Found
+[2022-04-04 13:02:28 UTC-04:00] > Searching for function my_strcmp2
+[2022-04-04 13:02:28 UTC-04:00] > 	Found
+[2022-04-04 13:02:28 UTC-04:00] > Searching for function my_strcat
+[2022-04-04 13:02:28 UTC-04:00] > 	Found
+[2022-04-04 13:02:28 UTC-04:00] > Searching for function my_strcat2
+[2022-04-04 13:02:28 UTC-04:00] > 	Found
+[2022-04-04 13:02:28 UTC-04:00] > Searching for function my_strccase
+[2022-04-04 13:02:28 UTC-04:00] > 	Found
+[2022-04-04 13:02:28 UTC-04:00] > Searching for function my_strrev
+[2022-04-04 13:02:28 UTC-04:00] > 	Found
+[2022-04-04 13:02:28 UTC-04:00] > Searching for function my_strchr
+[2022-04-04 13:02:28 UTC-04:00] > 	Found
+[2022-04-04 13:02:28 UTC-04:00] > Searching for function my_strchr2
+[2022-04-04 13:02:28 UTC-04:00] > 	Found
+[2022-04-04 13:02:28 UTC-04:00] > Searching for function my_strcpy
+[2022-04-04 13:02:28 UTC-04:00] > 	Found
+[2022-04-04 13:02:28 UTC-04:00] > Searching for function my_strcpy2
+[2022-04-04 13:02:28 UTC-04:00] > 	Found
+[2022-04-04 13:02:28 UTC-04:00] > Looking in program3.c for required functions
+[2022-04-04 13:02:28 UTC-04:00] > Searching for function main
+[2022-04-04 13:02:28 UTC-04:00] > 	Found
+[2022-04-04 13:02:28 UTC-04:00] > Running C tests
+[2022-04-04 13:02:28 UTC-04:00] > Looking in my_string.c for extra credit functions
+[2022-04-04 13:02:28 UTC-04:00] > Searching for function my_strtok
+[2022-04-04 13:02:28 UTC-04:00] > 	Not Found
+[2022-04-04 13:02:29 UTC-04:00] > 	Success
+[2022-04-04 13:02:29 UTC-04:00] > Exiting test_submission.py successfully ...
+
+
+[2022-04-04 13:02:29 UTC-04:00] > Starting grade.py
+[2022-04-04 13:02:29 UTC-04:00] > 	Successfully retrieved languages to be included
+[2022-04-04 13:02:29 UTC-04:00] > 	Successfully retreieved weights to be included
+[2022-04-04 13:02:29 UTC-04:00] > Finding the C stuff
+[2022-04-04 13:02:29 UTC-04:00] > 	Success
+[2022-04-04 13:02:29 UTC-04:00] > Attempting to print formatted test cases to console
+[2022-04-04 13:02:29 UTC-04:00] > 	Success
+[2022-04-04 13:02:29 UTC-04:00] > Attempting to calculate grade
+[2022-04-04 13:02:29 UTC-04:00] > 	Success
+[2022-04-04 13:02:29 UTC-04:00] > Attempting to send grade via LTI
+[2022-04-04 13:02:29 UTC-04:00] > 	Response code: True
+[2022-04-04 13:02:29 UTC-04:00] > Exiting grade.py successfully ...
